@@ -13,6 +13,8 @@ hi Normal         guifg=#dedee1           guibg=#141414
 hi Cursor                                 guibg=#ffba0a
 "hi CursorLine	            			  guibg=#282828
 hi CursorLine	            			  guibg=#1e1e1e
+hi CursorLineNr   guifg=#a1c565           guibg=#282828
+
 hi Directory      guifg=#8F9D6A           guibg=#141414
 "hi Directory      guifg=#ff0000 guibg=#00ff00
 "hi treeDir        guifg=#ff0000 guibg=#00ff00
