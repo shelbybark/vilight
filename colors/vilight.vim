@@ -13,7 +13,7 @@ hi Normal         guifg=#dedee1           guibg=#141414
 hi Cursor                                 guibg=#ffba0a
 "hi CursorLine	            			  guibg=#282828
 hi CursorLine	            			  guibg=#1e1e1e
-hi CursorLineNr   guifg=#edc637           guibg=#282828
+hi CursorLineNr   guifg=#edc637           guibg=#161616
 
 hi Directory      guifg=#8F9D6A           guibg=#141414
 "hi Directory      guifg=#ff0000 guibg=#00ff00
